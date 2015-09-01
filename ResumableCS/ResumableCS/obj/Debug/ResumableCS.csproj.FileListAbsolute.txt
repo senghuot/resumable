@@ -1,0 +1,17 @@
+C:\playground\ResumableCS\ResumableCS\bin\Debug\ResumableCS.exe.config
+C:\playground\ResumableCS\ResumableCS\bin\Debug\ResumableCS.exe
+C:\playground\ResumableCS\ResumableCS\bin\Debug\ResumableCS.pdb
+C:\playground\ResumableCS\ResumableCS\bin\Debug\Newtonsoft.Json.dll
+C:\playground\ResumableCS\ResumableCS\bin\Debug\System.Net.Http.Formatting.dll
+C:\playground\ResumableCS\ResumableCS\bin\Debug\Newtonsoft.Json.xml
+C:\playground\ResumableCS\ResumableCS\bin\Debug\System.Net.Http.Formatting.xml
+C:\playground\ResumableCS\ResumableCS\obj\Debug\ResumableCS.csprojResolveAssemblyReference.cache
+C:\playground\ResumableCS\ResumableCS\obj\Debug\ResumableCS.exe
+C:\playground\ResumableCS\ResumableCS\obj\Debug\ResumableCS.pdb
+C:\playground\ResumableCS\ResumableCS\bin\Debug\MongoDB.Bson.dll
+C:\playground\ResumableCS\ResumableCS\bin\Debug\MongoDB.Driver.Core.dll
+C:\playground\ResumableCS\ResumableCS\bin\Debug\MongoDB.Driver.dll
+C:\playground\ResumableCS\ResumableCS\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\playground\ResumableCS\ResumableCS\bin\Debug\MongoDB.Bson.xml
+C:\playground\ResumableCS\ResumableCS\bin\Debug\MongoDB.Driver.xml
+C:\playground\ResumableCS\ResumableCS\bin\Debug\MongoDB.Driver.Legacy.xml

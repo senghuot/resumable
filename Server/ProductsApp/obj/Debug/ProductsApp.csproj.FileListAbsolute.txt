@@ -1,0 +1,29 @@
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+c:\users\limse\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\middleout\ProductsApp\bin\ProductsApp.dll.config
+C:\middleout\ProductsApp\bin\ProductsApp.dll
+C:\middleout\ProductsApp\bin\ProductsApp.pdb
+C:\middleout\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\middleout\ProductsApp\bin\System.Web.Http.dll
+C:\middleout\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\middleout\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\middleout\ProductsApp\bin\System.Web.Http.xml
+C:\middleout\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\middleout\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\middleout\ProductsApp\obj\Debug\ProductsApp.dll
+C:\middleout\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\middleout\ProductsApp\bin\MongoDB.Bson.dll
+C:\middleout\ProductsApp\bin\MongoDB.Driver.Core.dll
+C:\middleout\ProductsApp\bin\MongoDB.Driver.dll
+C:\middleout\ProductsApp\bin\MongoDB.Bson.xml
+C:\middleout\ProductsApp\bin\MongoDB.Driver.xml
